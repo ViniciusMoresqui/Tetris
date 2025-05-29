@@ -46,6 +46,7 @@ Abra o arquivo index.html no navegador.
 📂 Estrutura do Projeto
 
 ├── index.html     # Código principal do jogo
+
 ├── README.md      # Documentação do projeto
 
 🎯 Objetivos Atendidos
